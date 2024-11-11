@@ -1,0 +1,20 @@
+Start the SDDP algorithm 
+Use Papadakos method to generate strong cuts: True 
+Generate  cuts with linear relaxation: False 
+Generate  WarmUp cuts in SDDP: True 
+Generate  cuts with LBF: True 
+Generate  cuts with two-stage solution: False 
+Use valid inequalities: False 
+Run SDDP in a single tree: False 
+SDDP setting: 'JustYFix' 
+Iteration: 1, Duration: 1926, LB: 5522856.509347999, (exp UB:97793269.53828587),  Gap: 94.35,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 2, Duration: 4783, LB: 5522856.509347999, (exp UB:97793269.53828587),  Gap: 94.35,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 3, Duration: 8737, LB: 5522856.509347999, (exp UB:97793269.53828587),  Gap: 94.35,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 4, Duration: 13834, LB: 5522856.509347999, (exp UB:96710797.46862343),  Gap: 94.29,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 5, Duration: 19987, LB: 5522856.509347999, (exp UB:95357173.29293841),  Gap: 94.21,  Fixed x: False,  Fixed thetavar: False  
+Change stage 1 problem to integer 
+Iteration: 6, Duration: 28795, LB: 5522857.603603472, (exp UB:5764425.036674671),  Gap: 4.19,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 7, Duration: 37981, LB: 5522857.971681837, (exp UB:5664741.430506991),  Gap: 2.50,  Fixed x: False,  Fixed thetavar: False  
+Convergence Test, Nr Scenario: 100, LB: 5522857.971681837, (exp UB: 5664741.430506991 - safe UB: 5664741.430506991), SafeGap: 2.50% 
+End of the SDDP algorithm 
+ 

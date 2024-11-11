@@ -1,0 +1,34 @@
+Start the SDDP algorithm 
+Use Papadakos method to generate strong cuts: True 
+Generate  cuts with linear relaxation: False 
+Generate  WarmUp cuts in SDDP: True 
+Generate  cuts with LBF: True 
+Generate  cuts with two-stage solution: False 
+Use valid inequalities: False 
+Run SDDP in a single tree: False 
+SDDP setting: 'JustYFix' 
+Iteration: 1, Duration: 350, LB: 112920.98644690991, (exp UB:41670250.492266186),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 2, Duration: 824, LB: 112920.98644690991, (exp UB:41670250.492266186),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 3, Duration: 1454, LB: 112920.98644690991, (exp UB:41670250.492266186),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 4, Duration: 2217, LB: 112920.98644690991, (exp UB:41648240.52077242),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 5, Duration: 3115, LB: 112920.98644690991, (exp UB:41648240.52077242),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 6, Duration: 4141, LB: 112920.98644690991, (exp UB:41645827.65127525),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 7, Duration: 5290, LB: 112920.98644690991, (exp UB:41645819.46864809),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 8, Duration: 6582, LB: 112920.98644690991, (exp UB:41645819.46864809),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 9, Duration: 8006, LB: 112920.98644690991, (exp UB:41645819.46864809),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 10, Duration: 9558, LB: 112920.98644690991, (exp UB:41645806.34858867),  Gap: 99.73,  Fixed x: False,  Fixed thetavar: False  
+Change stage 1 problem to integer 
+Iteration: 11, Duration: 11361, LB: 112921.24966666632, (exp UB:446493.7515046703),  Gap: 74.71,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 12, Duration: 13316, LB: 112921.25566691635, (exp UB:236803.7783700756),  Gap: 52.31,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 13, Duration: 15508, LB: 112921.25667271312, (exp UB:164071.7676579752),  Gap: 31.18,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 14, Duration: 17932, LB: 112921.28584348821, (exp UB:164071.7676579752),  Gap: 31.18,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 15, Duration: 20494, LB: 112921.25866666643, (exp UB:147830.64839273322),  Gap: 23.61,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 16, Duration: 23247, LB: 112927.37100381195, (exp UB:147830.64839273322),  Gap: 23.61,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 17, Duration: 26148, LB: 112921.26059319128, (exp UB:116747.18308293997),  Gap: 3.28,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 18, Duration: 29171, LB: 112921.26198149056, (exp UB:115904.24173427327),  Gap: 2.57,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 19, Duration: 32421, LB: 112921.31490235285, (exp UB:115904.24173427327),  Gap: 2.57,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 20, Duration: 35878, LB: 112921.32838683134, (exp UB:115904.24173427327),  Gap: 2.57,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 21, Duration: 39461, LB: 113102.81433333296, (exp UB:115904.24173427327),  Gap: 2.42,  Fixed x: False,  Fixed thetavar: False  
+Convergence Test, Nr Scenario: 100, LB: 113102.81433333296, (exp UB: 115086.84958511096 - safe UB: 115086.84958511096), SafeGap: 1.72% 
+End of the SDDP algorithm 
+ 

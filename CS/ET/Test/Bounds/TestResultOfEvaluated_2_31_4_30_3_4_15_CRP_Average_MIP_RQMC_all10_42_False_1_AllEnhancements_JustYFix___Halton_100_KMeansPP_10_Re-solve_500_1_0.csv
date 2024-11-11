@@ -1,0 +1,2 @@
+"Instance","Model","Method","ScenarioGeneration","NrScenario","ScenarioSeed","EVPI","NrForwardScenario","mipsetting","SDDPSetting","HybridPHSetting","MLLocalSearchSetting","Policy Generation","NrEvaluation","Time Horizon","All Scenario","Mean","Variance","LB","UB","Min Average","Max Average","nrerror"
+"2_31_4_30_3_4_15_CRP","Average","MIP","RQMC","all10","42","False","1","AllEnhancements","JustYFix","","","Halton","100","KMeansPP","10","Re-solve","500","1","0","10542975.177164692","19088376349852.812","10160013.281969897","10925937.072359487","0","0","-1"

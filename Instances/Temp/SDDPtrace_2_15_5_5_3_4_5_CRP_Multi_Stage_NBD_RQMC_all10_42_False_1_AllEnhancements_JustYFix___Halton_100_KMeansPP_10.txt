@@ -1,0 +1,24 @@
+Start the SDDP algorithm 
+Use Papadakos method to generate strong cuts: True 
+Generate  cuts with linear relaxation: False 
+Generate  WarmUp cuts in SDDP: True 
+Generate  cuts with LBF: True 
+Generate  cuts with two-stage solution: False 
+Use valid inequalities: False 
+Run SDDP in a single tree: False 
+SDDP setting: 'JustYFix' 
+Iteration: 1, Duration: 881, LB: 108119.20079770457, (exp UB:44977545.13263261),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 2, Duration: 2142, LB: 108119.20079770457, (exp UB:44977545.13263261),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 3, Duration: 3918, LB: 108119.20079770457, (exp UB:44877364.78275115),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 4, Duration: 6207, LB: 108119.20079770457, (exp UB:44861760.943413496),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 5, Duration: 9007, LB: 108119.20079770457, (exp UB:44859959.664573744),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 6, Duration: 12281, LB: 108119.20079770457, (exp UB:44858280.77028534),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 7, Duration: 16096, LB: 108119.20079770457, (exp UB:44856931.45394747),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 8, Duration: 20435, LB: 108119.20079770457, (exp UB:44856242.9850041),  Gap: 99.76,  Fixed x: False,  Fixed thetavar: False  
+Change stage 1 problem to integer 
+Iteration: 9, Duration: 25582, LB: 108119.6454583332, (exp UB:145819.36455938424),  Gap: 25.85,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 10, Duration: 31206, LB: 108119.64653622308, (exp UB:122409.19564028281),  Gap: 11.67,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 11, Duration: 37699, LB: 108119.64670867591, (exp UB:118345.44022341918),  Gap: 8.64,  Fixed x: False,  Fixed thetavar: False  
+Convergence Test, Nr Scenario: 100, LB: 108119.64670867591, (exp UB: 118345.44022341918 - safe UB: 118345.44022341918), SafeGap: 8.64% 
+End of the SDDP algorithm 
+ 

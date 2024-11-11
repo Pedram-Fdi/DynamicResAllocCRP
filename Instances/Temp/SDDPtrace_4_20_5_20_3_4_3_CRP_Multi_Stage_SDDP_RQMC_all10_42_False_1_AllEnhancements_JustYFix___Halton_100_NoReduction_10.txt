@@ -1,0 +1,101 @@
+Start the SDDP algorithm 
+Use Papadakos method to generate strong cuts: True 
+Generate  cuts with linear relaxation: False 
+Generate  WarmUp cuts in SDDP: True 
+Generate  cuts with LBF: True 
+Generate  cuts with two-stage solution: False 
+Use valid inequalities: False 
+Run SDDP in a single tree: False 
+SDDP setting: 'JustYFix' 
+Iteration: 1, Duration: 1949, LB: 65637847.03892473, (exp UB:478393687.14606714),  Gap: 86.28,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 2, Duration: 2004, LB: 65637847.08439948, (exp UB:315709184.08316636),  Gap: 79.21,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 3, Duration: 2068, LB: 65637847.09366815, (exp UB:245552994.49914062),  Gap: 73.27,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 4, Duration: 2265, LB: 65637847.11801527, (exp UB:243603870.9930633),  Gap: 73.06,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 5, Duration: 2429, LB: 65637847.11801535, (exp UB:203596886.10046947),  Gap: 67.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 6, Duration: 2507, LB: 65637847.11801535, (exp UB:327956349.8890867),  Gap: 79.99,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 7, Duration: 2615, LB: 65637847.11801535, (exp UB:282317203.17887825),  Gap: 76.75,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 8, Duration: 2679, LB: 65637847.11801535, (exp UB:279257901.9391046),  Gap: 76.50,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 9, Duration: 2746, LB: 65637847.11801535, (exp UB:221488979.68260372),  Gap: 70.37,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 10, Duration: 2918, LB: 65637847.11801535, (exp UB:336556586.2630856),  Gap: 80.50,  Fixed x: False,  Fixed thetavar: False  
+Change stage 1 problem to integer 
+Iteration: 11, Duration: 3508, LB: 65637848.74089149, (exp UB:33841006.239900105),  Gap: -93.96,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 12, Duration: 3910, LB: 65640305.407657534, (exp UB:30717240.61745584),  Gap: -113.69,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 13, Duration: 4649, LB: 65639351.100402944, (exp UB:32085804.229381338),  Gap: -104.57,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 14, Duration: 4926, LB: 65639749.490528345, (exp UB:32419659.217342645),  Gap: -102.47,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 15, Duration: 5134, LB: 65638047.53373836, (exp UB:29785247.1511742),  Gap: -120.37,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 16, Duration: 5445, LB: 65638011.828809336, (exp UB:27938248.697587788),  Gap: -134.94,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 17, Duration: 5806, LB: 65638042.883414954, (exp UB:29505916.30865457),  Gap: -122.46,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 18, Duration: 6037, LB: 65638112.75166094, (exp UB:31594583.814767417),  Gap: -107.75,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 19, Duration: 6293, LB: 65638069.77976618, (exp UB:29809108.938693892),  Gap: -120.19,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 20, Duration: 6774, LB: 65638076.69606219, (exp UB:27506602.289382316),  Gap: -138.63,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 21, Duration: 7016, LB: 65638077.89478624, (exp UB:34606140.76717064),  Gap: -89.67,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 22, Duration: 7323, LB: 65640122.717059106, (exp UB:32014646.437890198),  Gap: -105.03,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 23, Duration: 7633, LB: 65641611.91618526, (exp UB:31359656.02798684),  Gap: -109.32,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 24, Duration: 7913, LB: 65643242.98101362, (exp UB:31936291.93269492),  Gap: -105.54,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 25, Duration: 8398, LB: 65643686.3556831, (exp UB:29931830.239412185),  Gap: -119.31,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 26, Duration: 8772, LB: 65642543.736964144, (exp UB:27406657.000396956),  Gap: -139.51,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 27, Duration: 9312, LB: 65643562.180273965, (exp UB:29077944.760248795),  Gap: -125.75,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 28, Duration: 9992, LB: 65638075.87649628, (exp UB:30255298.970270935),  Gap: -116.95,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 29, Duration: 10506, LB: 65641730.16310946, (exp UB:34898618.79997054),  Gap: -88.09,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 30, Duration: 11209, LB: 65641909.03807564, (exp UB:31567857.889685705),  Gap: -107.94,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 31, Duration: 11740, LB: 65643130.29712941, (exp UB:30919000.897389594),  Gap: -112.31,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 32, Duration: 12882, LB: 65640686.582831725, (exp UB:36810148.75902022),  Gap: -78.32,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 33, Duration: 14143, LB: 65638383.17244674, (exp UB:31723129.721601687),  Gap: -106.91,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 34, Duration: 14703, LB: 65640415.47866293, (exp UB:31697049.6463542),  Gap: -107.09,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 35, Duration: 15314, LB: 65638398.197065465, (exp UB:31226012.255007293),  Gap: -110.20,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 36, Duration: 16024, LB: 65638077.65415661, (exp UB:30787120.07536471),  Gap: -113.20,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 37, Duration: 16608, LB: 65642276.8125938, (exp UB:28416607.41669689),  Gap: -131.00,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 38, Duration: 17063, LB: 65640522.2815883, (exp UB:34551714.23047419),  Gap: -89.98,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 39, Duration: 17707, LB: 65644371.709269986, (exp UB:31888021.03348259),  Gap: -105.86,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 40, Duration: 18681, LB: 65638302.5752458, (exp UB:30772870.771759592),  Gap: -113.30,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 41, Duration: 18995, LB: 65638078.834233135, (exp UB:28352622.471871838),  Gap: -131.51,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 42, Duration: 19372, LB: 65640745.820869885, (exp UB:32812317.61259053),  Gap: -100.05,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 43, Duration: 20396, LB: 65639697.71722109, (exp UB:31483422.069139425),  Gap: -108.49,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 44, Duration: 21258, LB: 65639881.20374505, (exp UB:34684336.71323014),  Gap: -89.25,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 45, Duration: 21839, LB: 65642006.84766157, (exp UB:31175552.280292816),  Gap: -110.56,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 46, Duration: 22266, LB: 65640247.25697389, (exp UB:32537199.55901048),  Gap: -101.74,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 47, Duration: 23542, LB: 65638393.01168388, (exp UB:28849194.980804812),  Gap: -127.52,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 48, Duration: 24346, LB: 65640817.90666513, (exp UB:30402465.179251004),  Gap: -115.91,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 49, Duration: 24745, LB: 65639551.49340454, (exp UB:30690915.061420802),  Gap: -113.87,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 50, Duration: 25472, LB: 65638869.49860936, (exp UB:32791847.723172717),  Gap: -100.17,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 51, Duration: 27140, LB: 65641064.66767718, (exp UB:30989593.383525997),  Gap: -111.82,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 52, Duration: 27900, LB: 65638868.37943313, (exp UB:30707524.576778427),  Gap: -113.75,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 53, Duration: 29046, LB: 65639067.374417126, (exp UB:31437988.193798047),  Gap: -108.79,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 54, Duration: 30434, LB: 65642185.55861029, (exp UB:33579959.89539415),  Gap: -95.48,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 55, Duration: 31806, LB: 65640564.90908988, (exp UB:29432617.320380475),  Gap: -123.02,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 56, Duration: 32214, LB: 65643936.91253295, (exp UB:34313699.345941305),  Gap: -91.31,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 57, Duration: 32569, LB: 65643570.90449089, (exp UB:32460974.034264427),  Gap: -102.22,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 58, Duration: 33795, LB: 65640656.64912309, (exp UB:31447760.181457523),  Gap: -108.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 59, Duration: 35560, LB: 65641214.897313826, (exp UB:33122846.889268905),  Gap: -98.18,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 60, Duration: 36596, LB: 65641356.87679766, (exp UB:31817147.824826196),  Gap: -106.31,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 61, Duration: 37441, LB: 65641984.55688396, (exp UB:33043883.737656176),  Gap: -98.65,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 62, Duration: 38786, LB: 65642982.77094544, (exp UB:31152473.37861395),  Gap: -110.72,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 63, Duration: 39575, LB: 65639102.05642505, (exp UB:29703060.74970426),  Gap: -120.98,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 64, Duration: 40376, LB: 65642163.9134877, (exp UB:30247683.410919618),  Gap: -117.02,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 65, Duration: 41445, LB: 65642841.29290642, (exp UB:36024742.01567067),  Gap: -82.22,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 66, Duration: 42431, LB: 65638422.57108718, (exp UB:30594372.070193615),  Gap: -114.54,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 67, Duration: 44476, LB: 65642244.45625828, (exp UB:33367344.83089233),  Gap: -96.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 68, Duration: 46252, LB: 65643973.07996962, (exp UB:30892769.377912685),  Gap: -112.49,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 69, Duration: 48241, LB: 65639811.59738892, (exp UB:33746217.07120326),  Gap: -94.51,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 70, Duration: 49658, LB: 65642718.67028567, (exp UB:30945269.6923678),  Gap: -112.13,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 71, Duration: 51783, LB: 65641459.903551534, (exp UB:31879888.8210589),  Gap: -105.90,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 72, Duration: 52803, LB: 65639259.366992, (exp UB:34638731.88958535),  Gap: -89.50,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 73, Duration: 53449, LB: 65641955.327320166, (exp UB:34774893.040781125),  Gap: -88.76,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 74, Duration: 55133, LB: 65644028.77278221, (exp UB:33016684.007035013),  Gap: -98.82,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 75, Duration: 55664, LB: 65642666.18734379, (exp UB:32711593.587035853),  Gap: -100.67,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 76, Duration: 57364, LB: 65639003.42575386, (exp UB:32700043.746389315),  Gap: -100.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 77, Duration: 58650, LB: 65638464.54065308, (exp UB:33194303.979317356),  Gap: -97.74,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 78, Duration: 59647, LB: 65641501.88861784, (exp UB:33237619.93140477),  Gap: -97.49,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 79, Duration: 60524, LB: 65641401.74900311, (exp UB:31228472.68038945),  Gap: -110.20,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 80, Duration: 62297, LB: 65642774.0905917, (exp UB:36502064.95922996),  Gap: -79.83,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 81, Duration: 64374, LB: 65641998.64070059, (exp UB:32737720.766202293),  Gap: -100.51,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 82, Duration: 65720, LB: 65638623.221518904, (exp UB:33611411.07800465),  Gap: -95.29,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 83, Duration: 67115, LB: 65638241.629566856, (exp UB:30335756.388418928),  Gap: -116.37,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 84, Duration: 68601, LB: 65644477.18585825, (exp UB:32317544.880658627),  Gap: -103.12,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 85, Duration: 70166, LB: 65638209.923440054, (exp UB:30533079.243452758),  Gap: -114.97,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 86, Duration: 70837, LB: 65641545.31029332, (exp UB:29738531.343116675),  Gap: -120.73,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 87, Duration: 71613, LB: 65640234.05363503, (exp UB:32529160.05367955),  Gap: -101.79,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 88, Duration: 72300, LB: 65643735.99705929, (exp UB:32349718.23220844),  Gap: -102.92,  Fixed x: False,  Fixed thetavar: False  
+Convergence Test, Nr Scenario: 1000, LB: 29981076.400362935, (exp UB: 29981076.400362935 - safe UB: 30060290.34209428), SafeGap: 0.26% 
+End of the SDDP algorithm 
+ 

@@ -1,0 +1,25 @@
+Start the SDDP algorithm 
+Use Papadakos method to generate strong cuts: True 
+Generate  cuts with linear relaxation: False 
+Generate  WarmUp cuts in SDDP: True 
+Generate  cuts with LBF: True 
+Generate  cuts with two-stage solution: False 
+Use valid inequalities: False 
+Run SDDP in a single tree: False 
+SDDP setting: 'JustYFix' 
+Iteration: 1, Duration: 975, LB: 5647484.42721248, (exp UB:195198786.0404106),  Gap: 97.11,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 2, Duration: 2334, LB: 5647484.42721248, (exp UB:193285906.86016524),  Gap: 97.08,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 3, Duration: 4052, LB: 5647484.42721248, (exp UB:192208254.15580744),  Gap: 97.06,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 4, Duration: 6161, LB: 5647484.42721248, (exp UB:192175339.33318874),  Gap: 97.06,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 5, Duration: 8698, LB: 5647484.42721248, (exp UB:192161788.96502522),  Gap: 97.06,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 6, Duration: 11684, LB: 5647484.42721248, (exp UB:192161788.96502522),  Gap: 97.06,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 7, Duration: 15098, LB: 5647484.42721248, (exp UB:192161788.96502522),  Gap: 97.06,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 8, Duration: 18951, LB: 5647484.42721248, (exp UB:192080269.95682606),  Gap: 97.06,  Fixed x: False,  Fixed thetavar: False  
+Change stage 1 problem to integer 
+Iteration: 9, Duration: 23863, LB: 5647643.070352786, (exp UB:5970050.04553039),  Gap: 5.40,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 10, Duration: 29169, LB: 5647643.080352776, (exp UB:5917672.096477117),  Gap: 4.56,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 11, Duration: 34899, LB: 5647879.20400633, (exp UB:5917672.096477117),  Gap: 4.56,  Fixed x: False,  Fixed thetavar: False  
+Iteration: 12, Duration: 41310, LB: 5648152.200375468, (exp UB:5917672.096477117),  Gap: 4.55,  Fixed x: False,  Fixed thetavar: False  
+Convergence Test, Nr Scenario: 100, LB: 5648152.200375468, (exp UB: 5917672.096477117 - safe UB: 5917672.096477117), SafeGap: 4.55% 
+End of the SDDP algorithm 
+ 
